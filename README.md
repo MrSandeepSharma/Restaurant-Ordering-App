@@ -1,4 +1,4 @@
-# Restaurant-Ordering-App
+# Restaurant Ordering App
 
 Go Order some food for your breakfast 🍔
 
